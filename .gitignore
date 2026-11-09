@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+Variant_*.docx
+grille_correction.csv
+Grille_Comparative.docx
+
+build/
+*.egg-info/
